@@ -15,7 +15,8 @@ interface Hero {
       </div>
       <div>
         <label>name: </label>
-        <span><input value="{{hero.name}}" placeholder="name"></span>
+        <span>{{hero.name}}</span>
+        <div><input [(ngModel)]="hero.name" placeholder="name"></div>
       </div>
     `
 })
