@@ -1,0 +1,1 @@
+see [angular.io 5 min quickstart](https://angular.io/docs/ts/latest/quickstart.html)
